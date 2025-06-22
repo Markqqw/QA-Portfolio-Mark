@@ -55,6 +55,7 @@ Telegram: [@Markkozlov29605](https://t.me/Markkozlov29605)
 
 
 form-validator-qa-design/
+
 ├──  README.md  
 ├──  test-cases/  
 │ ├──  equivalence-classes.md # Классы эквивалентности по всем полям  
@@ -104,6 +105,7 @@ form-validator-qa-design/
 ## Структура проекта
 
 weather-clothing-qa-design/
+
 ├──  README.md  
 ├──  test-cases/  
 │ ├──  decision-table.md # Таблица принятия решений для погоды и одежды  
