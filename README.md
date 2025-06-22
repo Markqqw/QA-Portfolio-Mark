@@ -109,7 +109,7 @@ weather-clothing-qa-design/
 ├──  README.md  
 ├──  test-cases/  
 │ ├──  decision-table.md # Таблица принятия решений для погоды и одежды  
-│ ├──  equivalence-classes.md # Классы эквивалентности для поля "Погода"  
+│ ├──  equivalence-classes-weather.md # Классы эквивалентности для поля "Погода"  
 ├──  checklists/  
 │ └──  weather-checklist.md # Чек-лист функционального тестирования формы  
 ├──  bug-reports/  
