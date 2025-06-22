@@ -53,16 +53,18 @@ Telegram: [@Markkozlov29605](https://t.me/Markkozlov29605)
 
 ## Структура проекта
 
+
 form-validator-qa-design/
-├── README.md
-├── test-cases/
-│ ├── equivalence-classes.md # Классы эквивалентности по всем полям
-│ ├── boundary-analysis.md # Анализ граничных значений
-│ └── pairwise-tests.md # Попарные комбинации параметров
-├── checklists/
-│ └── form-checklist.md # Чеклист функционального тестирования формы
-├── bug-reports/
-│ └── example-defects.md # Примеры потенциальных дефектов
+├──  README.md  
+├──  test-cases/  
+│ ├──  equivalence-classes.md # Классы эквивалентности по всем полям  
+│ ├──  boundary-analysis.md # Анализ граничных значений  
+│ └──  pairwise-tests.md # Попарные комбинации параметров  
+├──  checklists/  
+│ └──  form-checklist.md # Чеклист функционального тестирования формы  
+├──  bug-reports/  
+│ └──  example-defects.md # Примеры потенциальных дефектов  
+
 
 
 ---
@@ -102,12 +104,12 @@ form-validator-qa-design/
 ## Структура проекта
 
 weather-clothing-qa-design/
-├── README.md
-├── test-cases/
-│ ├── decision-table.md # Таблица принятия решений для погоды и одежды
-│ ├── equivalence-classes.md # Классы эквивалентности для поля "Погода"
-├── checklists/
-│ └── weather-checklist.md # Чек-лист функционального тестирования формы
-├── bug-reports/
-│ └── example-defects.md # Примеры потенциальных дефектов
+├──  README.md  
+├──  test-cases/  
+│ ├──  decision-table.md # Таблица принятия решений для погоды и одежды  
+│ ├──  equivalence-classes.md # Классы эквивалентности для поля "Погода"  
+├──  checklists/  
+│ └──  weather-checklist.md # Чек-лист функционального тестирования формы  
+├──  bug-reports/  
+│ └──  example-defects.md # Примеры потенциальных дефектов  
 
