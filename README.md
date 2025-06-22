@@ -113,5 +113,5 @@ weather-clothing-qa-design/
 ├──  checklists/  
 │ └──  weather-checklist.md # Чек-лист функционального тестирования формы  
 ├──  bug-reports/  
-│ └──  example-defects.md # Примеры потенциальных дефектов  
+│ └──  example-defects-weather.md # Примеры потенциальных дефектов  
 
